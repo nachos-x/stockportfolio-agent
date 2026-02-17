@@ -3,7 +3,7 @@ from advanced_stock_monitor import crew
 
 st.set_page_config(page_title="Stock Portfolio Monitor", layout="wide")
 
-st.title("🚀 Autonomous Stock Portfolio Monitor Dashboard")
+st.title("Autonomous Stock Portfolio Monitor Dashboard")
 st.markdown("**Multi-Agent AI System • CrewAI + Real Market Data + LSTM Forecasting**")
 
 portfolio = ["AAPL", "MSFT", "GOOG", "AMZN", "TSLA", "NVDA"]
