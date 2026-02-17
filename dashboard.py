@@ -21,7 +21,7 @@ with col2:
     st.write(" • ".join(portfolio))
 
 if "report" in st.session_state:
-    st.markdown("### 📊 Daily AI-Generated Report")
+    st.markdown("### Daily AI-Generated Report")
     st.markdown(st.session_state.report.replace("\n", "  \n"))
 
 st.caption("Built with **3 specialized AI agents** • Real yfinance data • LSTM forecasting • Deployed on Streamlit Cloud")
