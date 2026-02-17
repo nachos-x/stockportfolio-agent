@@ -1,4 +1,4 @@
-# Autonomous Stock Portfolio Monitor Dashboard
+# Autonomous Multi-Agent Stock Portfolio Monitor
 A multi-agent AI-powered dashboard built with Streamlit and CrewAI that autonomously generates daily stock reports for a portfolio of tech giants (AAPL, MSFT, GOOG, AMZN, TSLA, NVDA). It combines real-time market data from yfinance, SMA golden/death cross detection, 5-year backtesting, recent news from Google News RSS, and 5-day LSTM price forecasts using PyTorch.
 
 ## Features
