@@ -6,4 +6,4 @@ torch>=2.2.1
 yfinance>=0.2.36
 requests>=2.31.0
 crewai>=0.51.0
-litellm==1.44.10
+litellm>=1.44.10
